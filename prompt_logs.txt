@@ -1,0 +1,56 @@
+--- PROMPT for El Paso, TX ---
+
+📍 REGION CONTEXT:
+- State: TX
+- County: El Paso
+- City: El Paso
+- Zip Code: 79934
+
+📊 DATA SNAPSHOT:
+- Total Landfills: 1
+- Avg Methane Flow: nan mmscfd
+- Avg MW Capacity: nan MW
+
+
+
+🔎 CONTEXTUAL SNAPSHOTS (from similar landfills via FAISS):
+⚠️ Could not retrieve external context. Proceeding with available data only.
+
+🧠 STRATEGIC DIRECTIVES:
+1. Suggest AI-integrated landfill management strategies.
+2. Recommend policy alignments with ESG and SDG targets.
+3. Estimate energy potential using methane-to-electricity conversion.
+4. Propose public-private partnership models for renewable infrastructure.
+5. Include predictive modeling suggestions for methane forecasting.
+
+🎯 Your insights should be layered, region-specific, and leverage the latest waste-tech frameworks.
+    
+
+--- PROMPT for Spokane, WA ---
+
+📍 REGION CONTEXT:
+- State: WA
+- County: Spokane
+- City: Spokane
+- Zip Code: 99208.0
+
+📊 DATA SNAPSHOT:
+- Total Landfills: 1
+- Avg Methane Flow: 0.40 mmscfd
+- Avg MW Capacity: nan MW
+
+ℹ️ Methane flow is minimal. Focus on waste minimization and circular practices.
+
+🔎 CONTEXTUAL SNAPSHOTS (from similar landfills via FAISS):
+⚠️ Could not retrieve external context. Proceeding with available data only.
+
+🧠 STRATEGIC DIRECTIVES:
+1. Suggest AI-integrated landfill management strategies.
+2. Recommend policy alignments with ESG and SDG targets.
+3. Estimate energy potential using methane-to-electricity conversion.
+4. Propose public-private partnership models for renewable infrastructure.
+5. Include predictive modeling suggestions for methane forecasting.
+
+🎯 Your insights should be layered, region-specific, and leverage the latest waste-tech frameworks.
+    
+
